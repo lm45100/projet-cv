@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    background-color:rgb(189, 126, 126); 
+    color:rgb(0,0,0);  
+}
+
+h1 {
+    font-family: 'Copperplate', fantasy; 
+    color: rgb(198, 180, 180);
+    text-align: left;
+}
+
+p {
+    color: rgb(57, 57, 65);
+    font-size: 18px;
+    text-align: center; 
+}
+
+h2{
+    font-size: 24px;
+    text-align: center;
+    text-decoration-line: overline;
+    font-style:normal;
+    background-color: goldenrod;
+}
+address{
+    text-align: left;
+}
+ul{
+    text-align: left;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+article{
+    font-style: italic;
+    
+}
+img{
+    float: left;
+    width: 125px;
+    height: 145px;
+}
